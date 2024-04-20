@@ -1,2 +1,1 @@
-# cenfo
-Investigación Aplicada 2
+# Sample
